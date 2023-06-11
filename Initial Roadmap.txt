@@ -1,0 +1,7 @@
+1. Automatic subtitle generation (both in english & urdu)
+2. Tabs to play different videos in a single window
+3. Permanent Favourites videos
+4. Permanent Videos Collection/Playlist
+5. Implemented in python with customtkintker
+6. Dark/Light Mode
+7. Continue from start or where left off
