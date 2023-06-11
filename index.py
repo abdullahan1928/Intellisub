@@ -3,7 +3,12 @@ from tkVideoPlayer import TkinterVideo
 import customtkinter as ctk
 from moviepy.editor import VideoFileClip
 import vlc
+import customtkinter
 
+# Modes: system (default), light, dark
+customtkinter.set_appearance_mode("System")
+# Themes: blue (default), dark-blue, green
+customtkinter.set_default_color_theme("blue")
 
 def button_function():
     file = tk.filedialog.askopenfilename(
