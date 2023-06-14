@@ -1,3 +1,3 @@
 # Intellisub
 
-Intellisub is a video player that aut-generate subtitles for the videos.
+Intellisub is a video player that auto-generate subtitles for the videos.
